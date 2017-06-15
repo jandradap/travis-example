@@ -1,4 +1,4 @@
 language: bash
-sudo: required
+# sudo: required
 
-script: sudo $TRAVIS_BUILD_DIR/fail.sh
+script: $TRAVIS_BUILD_DIR/fail.sh

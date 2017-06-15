@@ -5,4 +5,4 @@ env
 echo "This is a failed job"
 
 #exit -1
-exit 1
+exit 0
